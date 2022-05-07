@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://t.me/abhisheksvlog",
-    "repository": "https://github.com/200920082007/TigerShroff",
+    "website": "https://github.com/darkpc1412/TigerShroff",
+    "repository": "https://github.com/darkpc1412/TigerShroff",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
