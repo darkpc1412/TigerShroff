@@ -210,8 +210,8 @@ async def help(client, message):
 @Client.on_message(filters.command("about"))
 async def aboutme(client, message):
         buttons= [[
-            InlineKeyboardButton('Github', url='https://github.com/200920082007'),
-            InlineKeyboardButton('𝖬𝗈𝗏𝗂𝖾𝗌', url='https://t.me/MovieHubOfficialGroup'),
+            InlineKeyboardButton('𝐂𝐋𝐔𝐁 𝐇𝐎𝐔𝐒𝐄 🎬', url='https://t.me/movieclub1241'),
+            InlineKeyboardButton('𝖬𝗈𝗏𝗂𝖾𝗌', url='https://t.me/mnxmovies124'),
             InlineKeyboardButton('Close', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
