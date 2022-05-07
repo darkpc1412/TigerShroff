@@ -5,7 +5,7 @@ class script(object):
 
 i𝗍𝗌 𝖾𝖺𝗌𝗒 𝗍𝗈 𝗎𝗌𝖾 𝗆𝖾; 𝗃𝗎𝗌𝗍 𝖺𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉 𝖺𝗌 𝖺𝖽𝗆𝗂𝗇, 𝗁𝗂𝗍 /help 𝖿𝗈𝗋 𝗆𝗈𝗋𝖾
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-©MᴀɪɴᴛᴀɪɴᴇD Bʏ:<a href='tg://user?id=1951205538'><b>༒ᶜʳᵃᶻʸᴮᴼˢˢ卂乃卄丨丂卄乇Ҝ༒</b></a> .</b>"""
+©MᴀɪɴᴛᴀɪɴᴇD Bʏ:<a href='https://t.me/Justinvrgs'><b>𝕵𝖚𝖘𝖙𝖎𝖓</b></a> .</b>"""
 
     HELP_TXT = """<b>𝖧𝖾𝗋𝖾 𝗂𝗌 𝗍𝗁𝖾 𝖴𝗌𝗎𝖺𝗅 𝖼𝗈𝗆𝗆𝖺𝗇𝖽𝗌</b>: 
 /start - 𝖼𝗁𝖾𝖼𝗄 𝗐𝗁𝖾𝗍𝗁𝖾𝗋 𝗂𝗆 𝗈𝗇𝗅𝗂𝗇𝖾 
@@ -14,15 +14,15 @@ i𝗍𝗌 𝖾𝖺𝗌𝗒 𝗍𝗈 𝗎𝗌𝖾 𝗆𝖾; 𝗃𝗎𝗌𝗍 𝖺
     ABOUT_TXT = """
 ╔══════════════════❍
 ║╭━━━━━━━━━━━━━━━➣ 
-║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 -  Tiger Shroff
-║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - :<a href='tg://user?id=1951205538'><b>༒ᶜʳᵃᶻʸᴮᴼˢˢ卂乃卄丨丂卄乇Ҝ༒</b></a>
-║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href='https://t.me/Abhisheksvlog'>Everyone in this journey </a>
+║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 -  ѕнα∂σω
+║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - :<a href='https://t.me/Justinvrgs'><b>𝕵𝖚𝖘𝖙𝖎𝖓</b></a>
+║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href='https://t.me/Justinvrgs'>Everyone in this journey </a>
 ║➠ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - <a href='https://docs.pyrogram.org/'>𝑷𝒚𝒕𝒉𝒐𝒏 3 </a>
 ║➠ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - <a href='https://docs.pyrogram.org/'>𝑷ʏʀᴏɢʀᴀᴍ </a>
 ║➠ 𝙲𝙻𝙾𝙽𝙴𝙳 𝙵𝚁𝙾𝙼 - EvaMaria
-║➠ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 -  <a href='https://dashboard.heroku.com/apps'>𝑯𝒆𝒓𝒐𝒌𝒖</a>
-║➠ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 - <a href='https://t.me/TigerShroffimdbot'>𝒗8.7.2[𝑴𝒂𝒋𝒐𝒓]</a>
-║➠ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 - <a href='https://github.com/200920082007/TigerShroff'>𝑪𝒍𝒊𝒄𝒌 𝑯𝒆𝒓𝒆</a>
+║➠ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 -  <a href='https://t.me/mnxmovies124'>𝑯𝒆𝒓𝒐𝒌𝒖</a>
+║➠ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 - <a href='https://t.me/saniyaiyappanbot'>𝒗8.7.2[𝑴𝒂𝒋𝒐𝒓]</a>
+║➠ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 - <a href='https://t.me/mnxmovies124'>𝑪𝒍𝒊𝒄𝒌 𝑯𝒆𝒓𝒆</a>
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍
     
 
@@ -34,7 +34,7 @@ i𝗍𝗌 𝖾𝖺𝗌𝗒 𝗍𝗈 𝗎𝗌𝖾 𝗆𝖾; 𝗃𝗎𝗌𝗍 𝖺
 - <b>Use=</b> Send /Shazam (Reply To A Song File)
 
 <b>Problems</b>
--If The feature is not working in your bot pls contact him :<a href='tg://user?id=1951205538'><b>Click Here</b></a>
+-If The feature is not working in your bot pls contact him :<a href='https://t.me/Justinvrgs'><b>Click Here</b></a>
 
 <b> What's The Use </b>
 - Do You Want To Know A Song Name So You Can Hear It 
@@ -80,11 +80,11 @@ Don't Worry Send /shazam"""
  
  Tʜᴇɴ Mᴀʟʟᴜ Aᴜɴᴛʏ Wɪʟʟ Tᴇxᴛ Yᴏᴜ Sᴏᴍᴇ Jᴏᴋᴇs 😂😂 """
 
-    ABOUTME_TXT = """➢ 𝐌𝐲 𝐍𝐚𝐦𝐞: <a href='http://t.me/TigerShroffImdbot'>𝑇𝑖𝑔𝑒𝑟 𝑆𝒉𝑟𝑜𝑓𝑓 </a>
+    ABOUTME_TXT = """➢ 𝐌𝐲 𝐍𝐚𝐦𝐞: <a href='http://t.me/manjuwarrierv1_bot'>ѕнα∂σω </a>
     
-➢ 𝐌𝐲 𝐂𝐫𝐞𝐚𝐭𝐨𝐫: <a href='tg://user?id=1951205538'><b>༒ᶜʳᵃᶻʸᴮᴼˢˢ卂乃卄丨丂卄乇Ҝ༒</b></a>
+➢ 𝐌𝐲 𝐂𝐫𝐞𝐚𝐭𝐨𝐫: <a href='https://t.me/Justinvrgs'><b>𝕵𝖚𝖘𝖙𝖎𝖓</b></a>
 
-➢ 𝐌𝐲 𝐒𝐨𝐮𝐫𝐜𝐞: <a href='https://github.com/200920082007/TigerShroff'><b>TigerShroff</b></a>
+➢ 𝐌𝐲 𝐒𝐨𝐮𝐫𝐜𝐞: <a href='https://t.me/mnxmovies124'><b>𝐌𝐎𝐕𝐈𝐄 𝐂𝐋𝐔𝐁 📺🎥</b></a>
 
 ➢ 𝐌𝐲 𝐋𝐢𝐛𝐫𝐚𝐫𝐲: <a href='https://docs.pyrogram.org/'>𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆</a>
 
@@ -92,11 +92,11 @@ Don't Worry Send /shazam"""
 
 ➢ 𝐌𝐲 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞: <a href='https://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈 𝖣𝖡</a> 
 
-➢ 𝐌𝐲 𝐒𝐞𝐫𝐯𝐞𝐫: <a href='https://dashboard.heroku.com/apps'>𝖧𝖾𝗋𝗈𝗄𝗎</a>
+➢ 𝐌𝐲 𝐒𝐞𝐫𝐯𝐞𝐫: <a href='https://t.me/mnxmovies124'>𝖧𝖾𝗋𝗈𝗄𝗎</a>
 
-➢ 𝐌𝐲 𝐔𝐩𝐝𝐚𝐭𝐞𝐬: <a href='https://Github.com/200920082007'>Movie Hub</a>
+➢ 𝐌𝐲 𝐔𝐩𝐝𝐚𝐭𝐞𝐬: <a href='https://t.me/mnxmovies124'>𝐌𝐎𝐕𝐈𝐄 𝐂𝐋𝐔𝐁 📺🎥</a>
 
-➢ 𝐌𝐲 𝐒𝐮𝐩𝐩𝐨𝐫𝐭: <a href='https://t.me/tigershroffimdb'>𝖲𝗎𝗉𝗉𝗈𝗋𝗍</a>
+➢ 𝐌𝐲 𝐒𝐮𝐩𝐩𝐨𝐫𝐭: <a href='https://t.me/saniyaiyappanbot'>𝖲𝗎𝗉𝗉𝗈𝗋𝗍</a>
 
 ➤ 𝙸𝚏 𝚢𝚘𝚞 𝚕𝚒𝚔𝚎 𝚝𝚑𝚒𝚜 𝚋𝚘𝚝 𝚙𝚕𝚎𝚊𝚜𝚎 𝚜𝚑𝚊𝚛𝚎 𝚊𝚗𝚍 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚞𝚜 ⚡"""
 
@@ -132,7 +132,7 @@ Some URLs is Shortner
 <b>Example:</b>
 <code>/short https://t.me/josprojects</code>
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• ѕнα∂σω should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -142,7 +142,7 @@ Some URLs is Shortner
 • /torrent or /tor : Get Your Torrent Link From Various Resource.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• ѕнα∂σω should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -280,19 +280,19 @@ a bot to create a link to share text in the telegram.
 <b>Commands and Usage:</b>
 • /share (text or reply to message)
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• ѕнα∂σω should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
     SOURCE_TXT = """<b>Source:</b>
 This bot is a Close source project.But my source code would be here
-Source: <a href='https://Github.com/200920082007/TigerShroff'>Source - Click here 👈</a>"""
+Source: <a href='https://t.me/mnxmovies124'>Source - Click here 👈</a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and ѕнα∂σω  will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. ᗩᒍᗩ᙭ should have admin privillage.
+1. ѕнα∂σω should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -312,13 +312,13 @@ Song Download Module, For Those Who Love Music
 - Can Be Used By Everyone
 - Works in bot pm
 
-Made By <a href=https://t.me/+veUIdIW2CQ5mOGU5>𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬</a>"""
+Made By <a href=https://t.me/mnxmovies124>𝐌𝐎𝐕𝐈𝐄 𝐂𝐋𝐔𝐁 📺🎥</a>"""
     SHARE_TXT = """Help: <b>Sharing Text Maker</b>
 a bot to create a link to share text in the telegram.
 <b>Commands and Usage:</b>
 • /share (text or reply to message)
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• ѕнα∂σω should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
    
@@ -353,9 +353,9 @@ Translate text to speech
 
 <b>NOTE:</b>
 
-• IMDb should have admin privillage.
+• ѕнα∂σω should have admin privillage.
 • These commands works on both pm and group.
-• IMDb can translate texts to 200+ languages."""
+• ѕнα∂σω can translate texts to 200+ languages."""
     PINGS_TXT ="""<b>🌟 Ping:</b>
 
 Helps you to know your ping 🚶🏼‍♂️
@@ -406,11 +406,11 @@ Delete A Lot Of Messages From Groups!
 ◉ /purge :- Delete All Messages From The Replied To Message, To The Current Message"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
--ᗩᒍᗩ᙭  Supports both url and alert inline buttons.
+-ѕнα∂σω Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ᗩᒍᗩ᙭ supports buttons with any telegram media type.
+2. ѕнα∂σω supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
@@ -540,7 +540,7 @@ Added By - {}
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/+veUIdIW2CQ5mOGU5>𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/mnxmovies124>𝐌𝐎𝐕𝐈𝐄 𝐂𝐋𝐔𝐁 📺🎥</a>"""
 
     STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
 • 𝐔𝐒𝐀𝐆𝐄
