@@ -43,7 +43,7 @@ yt-dlp
 Heroku3
 speedtest
 pyyaml
-shazamio
+Shazamio
 ffmpeg-python>=0.2.0
 Wikipedia
 geopy>=2.1.0
